@@ -38,14 +38,23 @@ function render(data){
     div.className="card"
 
     div.innerHTML=`
-      <b>${m.name}</b><br>
-      ${m.position} – ${m.state} – ${m.party}<br>
-      Committees: ${m.committees || "?"}<br>
-      PAC Funding: ${m.pac_total || "?"}<br>
-      DC Phone: ${m.dc_phone || "?"}<br>
-      State Phone: ${m.state_phone || "?"}<br>
-      <button onclick="select('${m.name}')">Add to Mass Contact</button>
-      <button onclick="contact('${m.dc_phone}')">Call Info</button>
+  <b>${m.name}</b><br>
+  ${m.position} – ${m.state} – ${m.party}<br>
+  Committees: ${m.committees || "?"}<br>
+  PAC Funding: ${m.pac_total || "?"}<br>
+
+  DC Phone: ${m.dc_phone || "?"}<br>
+  State Phone: ${m.state_phone || "?"}<br>
+
+  <a href="tel:${m.dc_phone}">📞 Call DC Office</a><br>
+  <a href="tel:${m.state_phone}">📞 Call State Office</a><br>
+
+  <a href="mailto:${m.email || ""}">✉️ Email</a><br>
+
+  <button onclick="select('${m.name}')">
+    Add to Mass Contact
+  </button>
+`
     `
 
     list.appendChild(div)
