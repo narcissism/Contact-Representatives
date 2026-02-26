@@ -1,0 +1,29 @@
+name: Update Members
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Python deps
+        run: pip install requests pyyaml
+
+      - name: Run script
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python fetch_members.py
+
+      - name: Commit results
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add members.json
+          git commit -m \"update members\" || echo \"no changes\"
+          git push
