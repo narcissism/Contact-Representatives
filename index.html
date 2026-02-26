@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Congress Contact App</title>
+<style>
+body {font-family:sans-serif;background:#111;color:white;padding:20px}
+.card{
+  border:1px solid #444;
+  padding:10px;
+  margin:10px;
+}
+.highlight{background:#2a2}
+button{margin-top:5px}
+</style>
+</head>
+<body>
+
+<h1>Congress Contact App</h1>
+
+<input id="search" placeholder="Search state, party, name">
+
+<button onclick="showSelected()">Show Mass Contact List</button>
+
+<div id="list"></div>
+
+<script src="data.js"></script>
+<script>
+
+let selected=[]
+
+function render(data){
+  const list=document.getElementById("list")
+  list.innerHTML=""
+
+  data.forEach(m=>{
+    const div=document.createElement("div")
+    div.className="card"
+
+    div.innerHTML=`
+      <b>${m.name}</b><br>
+      ${m.position} – ${m.state} – ${m.party}<br>
+      Committees: ${m.committees || "?"}<br>
+      PAC Funding: ${m.pac_total || "?"}<br>
+      DC Phone: ${m.dc_phone || "?"}<br>
+      State Phone: ${m.state_phone || "?"}<br>
+      <button onclick="select('${m.name}')">Add to Mass Contact</button>
+      <button onclick="contact('${m.dc_phone}')">Call Info</button>
+    `
+
+    list.appendChild(div)
+  })
+}
+
+function select(name){
+  selected.push(name)
+  alert(name+" added to list")
+}
+
+function showSelected(){
+  alert("Mass Contact:\n"+selected.join("\n"))
+}
+
+function contact(phone){
+  alert("Call this number:\n"+phone)
+}
+
+render(MEMBERS)
+
+</script>
+</body>
+</html>
