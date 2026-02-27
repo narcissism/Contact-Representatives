@@ -1,37 +1,39 @@
-import requests, json, re
+import requests, yaml, json, os
 
-PROP_KEY="YOUR_PROPUBLICA_KEY"
+LEGISLATORS_URL = "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/legislators-current.yaml"
+FEC_API_KEY = os.getenv("jBzdbBdTatdkWAeRfRuOCuxIkAWhp4kkS14TyONx")
 
-def clean_phone(p):
-    if not p: return ""
-    return re.sub(r"\D","",p)
+def load_legislators():
+    print("Downloading legislators...")
+    r = requests.get(LEGISLATORS_URL, headers={"User-Agent":"Mozilla/5.0"})
+    r.raise_for_status()
+    return yaml.safe_load(r.text)
 
-def get_members(chamber):
-    url=f"https://api.propublica.org/congress/v1/118/{chamber}/members.json"
-    r=requests.get(url,headers={"X-API-Key":PROP_KEY}).json()
-    return r["results"][0]["members"]
+def main():
+    data = load_legislators()
+    members = []
 
-members=[]
+    for leg in data:
+        term = leg["terms"][-1]
 
-for chamber in ["house","senate"]:
-    for m in get_members(chamber):
+        name = f"{leg['name']['first']} {leg['name']['last']}"
+        state = term["state"]
+        party = term["party"]
+        chamber = term["type"]
 
         members.append({
-            "name":f"{m['first_name']} {m['last_name']}",
-            "position":chamber.title(),
-            "state":m["state"],
-            "party":m["party"],
-            "committees":"",
-            "pac_total":"",
-            "dc_phone":clean_phone(m.get("phone")),
-            "state_phone":"",
-            "email":""
+            "name": name,
+            "state": state,
+            "party": party,
+            "chamber": chamber,
+            "website": term.get("url"),
+            "fec": None
         })
 
-members=sorted(members,key=lambda x:x["state"])
+    with open("members.json","w") as f:
+        json.dump(members, f, indent=2)
 
-open("data.js","w").write(
-    "const MEMBERS="+json.dumps(members,indent=2)
-)
+    print("Saved", len(members), "members")
 
-print("data.js updated")
+if __name__ == "__main__":
+    main()
