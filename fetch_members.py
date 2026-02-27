@@ -1,49 +1,26 @@
-import requests
-import yaml
-import json
-import os
+import requests, yaml, json, re
 
 LEGISLATORS_URL = "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/legislators-current.yaml"
-FEC_API_KEY = os.getenv("FEC_API_KEY")
+HEADERS = {"User-Agent":"Mozilla/5.0"}
 
-def get_fec_totals(name, state):
-    if not FEC_API_KEY:
-        return None
+def scrape_contact(url):
+    if not url:
+        return None, None
 
     try:
-        search = requests.get(
-            "https://api.open.fec.gov/v1/candidates/search/",
-            params={
-                "api_key": FEC_API_KEY,
-                "q": name,
-                "state": state,
-                "per_page": 1
-            }
-        ).json()
+        html = requests.get(url, headers=HEADERS, timeout=10).text
 
-        if not search["results"]:
-            return None
+        phone = re.search(r"(\\(?\\d{3}\\)?[-\\.\\s]\\d{3}[-\\.\\s]\\d{4})", html)
+        zipc = re.search(r"\\b\\d{5}(?:-\\d{4})?\\b", html)
 
-        cid = search["results"][0]["candidate_id"]
-
-        totals = requests.get(
-            f"https://api.open.fec.gov/v1/candidate/{cid}/totals/",
-            params={"api_key": FEC_API_KEY}
-        ).json()
-
-        if totals["results"]:
-            latest = totals["results"][0]
-            return {
-                "receipts": latest.get("receipts"),
-                "pacs": latest.get("contributions_from_other_political_committees")
-            }
+        return phone.group(0) if phone else None, zipc.group(0) if zipc else None
 
     except:
-        return None
+        return None, None
+
 
 def main():
-    r = requests.get(LEGISLATORS_URL, headers={"User-Agent":"Mozilla/5.0"})
-    data = yaml.safe_load(r.text)
+    data = yaml.safe_load(requests.get(LEGISLATORS_URL, headers=HEADERS).text)
 
     members = []
 
@@ -51,31 +28,28 @@ def main():
         term = leg["terms"][-1]
 
         name = f"{leg['name']['first']} {leg['name']['last']}"
-        state = term["state"]
-        chamber = term["type"]
-        party = term["party"]
-        phone = term.get("phone")
+        website = term.get("url")
+
+        phone, zipc = scrape_contact(website)
 
         bioguide = leg["id"]["bioguide"]
         photo = f"https://www.govtrack.us/static/legislator-photos/{bioguide}-200px.jpeg"
 
-        fec = get_fec_totals(name, state)
-
         members.append({
             "name": name,
-            "state": state,
-            "party": party,
-            "chamber": chamber,
+            "state": term["state"],
+            "party": term["party"],
+            "chamber": term["type"],
+            "website": website,
             "phone": phone,
-            "photo": photo,
-            "website": term.get("url"),
-            "fec": fec
+            "zipcode": zipc,
+            "photo": photo
         })
 
     with open("members.json","w") as f:
         json.dump(members, f, indent=2)
 
-    print("Saved", len(members), "members")
+    print("Saved", len(members))
 
 if __name__ == "__main__":
     main()
