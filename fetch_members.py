@@ -1,7 +1,6 @@
 import requests, yaml, json, os
 
 LEGISLATORS_URL = "https://raw.githubusercontent.com/unitedstates/congress-legislators/main/legislators-current.yaml"
-FEC_API_KEY = os.getenv("jBzdbBdTatdkWAeRfRuOCuxIkAWhp4kkS14TyONx")
 
 def load_legislators():
     print("Downloading legislators...")
@@ -26,8 +25,7 @@ def main():
             "state": state,
             "party": party,
             "chamber": chamber,
-            "website": term.get("url"),
-            "fec": None
+            "website": term.get("url")
         })
 
     with open("members.json","w") as f:
