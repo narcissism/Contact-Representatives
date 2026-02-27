@@ -16,7 +16,7 @@ jobs:
         run: ls -R
 
       - name: Install Python deps
-        run: pip install requests pyyaml
+        run: pip install requests pyyaml beautifulsoup4
 
       - name: Run script
         run: python fetch_members.py
