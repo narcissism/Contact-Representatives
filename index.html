@@ -2,94 +2,81 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Congress Contact App</title>
-
+<title>Congress Contacts</title>
 <style>
-body{
-  font-family:sans-serif;
-  background:white;
-  color:black;
-  padding:20px;
+body {
+  background: white;
+  font-family: Arial, sans-serif;
+  margin: 40px;
 }
-.card{
-  border:1px solid #ccc;
-  padding:12px;
-  margin:8px;
-  border-radius:6px;
+
+h1 { margin-bottom: 20px; }
+
+.member {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
 }
-.stateTitle{
-  margin-top:30px;
-  font-size:22px;
-  border-bottom:2px solid #ccc;
+
+.controls {
+  margin-bottom: 20px;
 }
-button{
-  margin:4px;
-  padding:6px 10px;
+
+button {
+  margin-right: 10px;
+  padding: 6px 12px;
 }
 </style>
 </head>
-
 <body>
 
-<h1>Current U.S. Officials</h1>
+<h1>Current US Congress Members</h1>
 
-<button onclick="sortBy('state')">Sort by State</button>
-<button onclick="sortBy('position')">Sort by Position</button>
-<button onclick="sortBy('pac_total')">Sort by PAC Funding</button>
+<div class="controls">
+  <button onclick="sortBy('state')">Sort by State</button>
+  <button onclick="sortBy('party')">Sort by Party</button>
+  <button onclick="sortBy('chamber')">Sort by Chamber</button>
+</div>
 
 <div id="list"></div>
 
-<script src="data.js"></script>
-
 <script>
-let data = MEMBERS
+let members = [];
 
-function sortBy(field){
-  data.sort((a,b)=>{
-    if(!a[field]) return 1
-    if(!b[field]) return -1
-    return a[field] > b[field] ? 1 : -1
+fetch('members.json')
+  .then(r => r.json())
+  .then(data => {
+    members = data;
+    render();
   })
-  render()
+  .catch(err => {
+    document.getElementById('list').innerHTML = "Error loading members.json — run the GitHub Action first.";
+    console.error(err);
+  });
+
+function render() {
+  const container = document.getElementById('list');
+  container.innerHTML = '';
+
+  members.forEach(m => {
+    const div = document.createElement('div');
+    div.className = 'member';
+
+    div.innerHTML = `
+      <b>${m.name}</b> — ${m.party} — ${m.chamber} — ${m.state}<br>
+      ${m.website ? `<a href="${m.website}" target="_blank">Website</a> | ` : ''}
+      <a href="tel:2025551111">Call</a> |
+      <a href="mailto:rep@example.com">Email</a><br>
+      ${m.fec ? `Total Receipts: $${Math.round(m.fec.receipts || 0).toLocaleString()} | PACs: $${Math.round(m.fec.from_pacs || 0).toLocaleString()}` : 'No FEC data'}
+    `;
+
+    container.appendChild(div);
+  });
 }
 
-function render(){
-  const list=document.getElementById("list")
-  list.innerHTML=""
-
-  let currentState=""
-
-  data.forEach(m=>{
-
-    if(m.state!==currentState){
-      currentState=m.state
-      const h=document.createElement("div")
-      h.className="stateTitle"
-      h.innerText=currentState
-      list.appendChild(h)
-    }
-
-    const div=document.createElement("div")
-    div.className="card"
-
-    div.innerHTML=`
-      <b>${m.name}</b><br>
-      ${m.position} – ${m.party}<br>
-      Committees: ${m.committees || "?"}<br>
-      PAC Funding: ${m.pac_total || "?"}<br>
-      DC Phone: ${m.dc_phone || "?"}<br>
-      State Phone: ${m.state_phone || "?"}<br>
-
-      <a href="tel:${m.dc_phone || ""}">📞 Call DC</a> |
-      <a href="tel:${m.state_phone || ""}">📞 Call State</a> |
-      <a href="mailto:${m.email || ""}">✉️ Email</a>
-    `
-
-    list.appendChild(div)
-  })
+function sortBy(field) {
+  members.sort((a,b) => (a[field] > b[field] ? 1 : -1));
+  render();
 }
-
-render()
 </script>
 
 </body>
