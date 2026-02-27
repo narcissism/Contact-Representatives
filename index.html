@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Congress Contact</title>
+<title>Contact Representatives</title>
+
 <style>
 body {
   background: white;
@@ -10,14 +11,17 @@ body {
   margin: 40px;
 }
 
-h1 { margin-bottom: 20px; }
+h1 { margin-bottom: 10px; }
+
+.controls {
+  margin-bottom: 20px;
+}
 
 .member {
   display: flex;
   gap: 15px;
   border-bottom: 1px solid #ddd;
   padding: 14px 0;
-  align-items: flex-start;
 }
 
 .member img {
@@ -27,29 +31,26 @@ h1 { margin-bottom: 20px; }
   border-radius: 6px;
 }
 
-.controls {
-  margin-bottom: 20px;
+.info b {
+  font-size: 18px;
 }
 
-button {
+button, select {
   margin-right: 10px;
-  padding: 6px 12px;
-  cursor: pointer;
+  padding: 6px 10px;
 }
-
-.info b { font-size: 18px; }
-
-.phone {
-  margin-top: 6px;
-}
-
 </style>
 </head>
+
 <body>
 
-<h1>Current US Congress Members</h1>
+<h1>Current US Representatives</h1>
 
 <div class="controls">
+  <select id="stateFilter" onchange="filterState()">
+    <option value="ALL">All States</option>
+  </select>
+
   <button onclick="sortBy('state')">Sort by State</button>
   <button onclick="sortBy('party')">Sort by Party</button>
   <button onclick="sortBy('chamber')">Sort by Chamber</button>
@@ -59,49 +60,80 @@ button {
 
 <script>
 let members = [];
+let filtered = [];
 
-fetch('members.json')
+fetch("members.json")
   .then(r => r.json())
   .then(data => {
     members = data;
+    filtered = data;
+    populateStates();
     render();
   })
-  .catch(err => {
-    document.getElementById('list').innerHTML = "members.json not found — run GitHub Action.";
-    console.error(err);
+  .catch(() => {
+    document.getElementById("list").innerHTML =
+      "members.json missing — run GitHub Action.";
   });
 
+function populateStates() {
+  const states = [...new Set(members.map(m => m.state))].sort();
+  const dropdown = document.getElementById("stateFilter");
+
+  states.forEach(s => {
+    const opt = document.createElement("option");
+    opt.value = s;
+    opt.textContent = s;
+    dropdown.appendChild(opt);
+  });
+}
+
+function filterState() {
+  const state = document.getElementById("stateFilter").value;
+  filtered = state === "ALL"
+    ? members
+    : members.filter(m => m.state === state);
+  render();
+}
+
 function render() {
-  const container = document.getElementById('list');
-  container.innerHTML = '';
+  const list = document.getElementById("list");
+  list.innerHTML = "";
 
-  members.forEach(m => {
-    const div = document.createElement('div');
-    div.className = 'member';
+  filtered.forEach(m => {
+    const div = document.createElement("div");
+    div.className = "member";
 
-    const zip = m.chamber === 'sen' ? '20510' : '20515';
+    const phoneDigits = m.phone
+      ? m.phone.replace(/[^0-9]/g, "")
+      : "";
 
     div.innerHTML = `
-      <img src="${m.photo || ''}" onerror="this.style.display='none'">
+      <img src="${m.photo || ''}"
+           onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png'">
+
       <div class="info">
         <b>${m.name}</b><br>
         ${m.party} — ${m.chamber.toUpperCase()} — ${m.state}<br>
-        DC Office ZIP: ${zip}<br>
-        <div class="phone">
-          Phone: ${m.phone || 'Not listed'}<br>
-          ${m.phone ? `<a href="tel:${m.phone.replace(/[^0-9]/g,'')}">📞 Click to Call</a>` : ''}
-        </div>
-        ${m.website ? `<a href="${m.website}" target="_blank">Official Website</a><br>` : ''}
-        ${m.fec ? `Total Receipts: $${Math.round(m.fec.receipts || 0).toLocaleString()} | PACs: $${Math.round(m.fec.pacs || 0).toLocaleString()}` : ''}
+
+        State Office ZIP: ${m.zipcode || "Not found"}<br>
+
+        Phone: ${m.phone || "Not found"}<br>
+        ${phoneDigits ? `<a href="tel:${phoneDigits}">📞 Click to Call</a><br>` : ""}
+
+        Email: ${m.email || "Not found"}<br>
+
+        ${m.website ? `<a href="${m.website}" target="_blank">Official Website</a>` : ""}
       </div>
     `;
 
-    container.appendChild(div);
+    list.appendChild(div);
   });
 }
 
 function sortBy(field) {
-  members.sort((a,b) => (a[field] > b[field] ? 1 : -1));
+  filtered.sort((a,b) =>
+    (a[field] || "").localeCompare(b[field] || "")
+  );
   render();
 }
 </script>
