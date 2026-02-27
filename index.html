@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Congress Contacts</title>
+<title>Congress Contact</title>
 <style>
 body {
   background: white;
@@ -13,8 +13,18 @@ body {
 h1 { margin-bottom: 20px; }
 
 .member {
+  display: flex;
+  gap: 15px;
   border-bottom: 1px solid #ddd;
-  padding: 10px 0;
+  padding: 14px 0;
+  align-items: flex-start;
+}
+
+.member img {
+  width: 80px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
 }
 
 .controls {
@@ -24,7 +34,15 @@ h1 { margin-bottom: 20px; }
 button {
   margin-right: 10px;
   padding: 6px 12px;
+  cursor: pointer;
 }
+
+.info b { font-size: 18px; }
+
+.phone {
+  margin-top: 6px;
+}
+
 </style>
 </head>
 <body>
@@ -49,7 +67,7 @@ fetch('members.json')
     render();
   })
   .catch(err => {
-    document.getElementById('list').innerHTML = "Error loading members.json — run the GitHub Action first.";
+    document.getElementById('list').innerHTML = "members.json not found — run GitHub Action.";
     console.error(err);
   });
 
@@ -61,12 +79,21 @@ function render() {
     const div = document.createElement('div');
     div.className = 'member';
 
+    const zip = m.chamber === 'sen' ? '20510' : '20515';
+
     div.innerHTML = `
-      <b>${m.name}</b> — ${m.party} — ${m.chamber} — ${m.state}<br>
-      ${m.website ? `<a href="${m.website}" target="_blank">Website</a> | ` : ''}
-      <a href="tel:2025551111">Call</a> |
-      <a href="mailto:rep@example.com">Email</a><br>
-      ${m.fec ? `Total Receipts: $${Math.round(m.fec.receipts || 0).toLocaleString()} | PACs: $${Math.round(m.fec.from_pacs || 0).toLocaleString()}` : 'No FEC data'}
+      <img src="${m.photo || ''}" onerror="this.style.display='none'">
+      <div class="info">
+        <b>${m.name}</b><br>
+        ${m.party} — ${m.chamber.toUpperCase()} — ${m.state}<br>
+        DC Office ZIP: ${zip}<br>
+        <div class="phone">
+          Phone: ${m.phone || 'Not listed'}<br>
+          ${m.phone ? `<a href="tel:${m.phone.replace(/[^0-9]/g,'')}">📞 Click to Call</a>` : ''}
+        </div>
+        ${m.website ? `<a href="${m.website}" target="_blank">Official Website</a><br>` : ''}
+        ${m.fec ? `Total Receipts: $${Math.round(m.fec.receipts || 0).toLocaleString()} | PACs: $${Math.round(m.fec.pacs || 0).toLocaleString()}` : ''}
+      </div>
     `;
 
     container.appendChild(div);
