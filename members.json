@@ -4,3765 +4,5717 @@
     "state": "WA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.cantwell.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Amy Klobuchar",
     "state": "MN",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.klobuchar.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Bernard Sanders",
     "state": "VT",
     "party": "Independent",
     "chamber": "sen",
-    "website": "https://www.sanders.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Sheldon Whitehouse",
     "state": "RI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.whitehouse.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Barrasso",
     "state": "WY",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.barrasso.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Roger Wicker",
     "state": "MS",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.wicker.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Susan Collins",
     "state": "ME",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.collins.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Cornyn",
     "state": "TX",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.cornyn.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Richard Durbin",
     "state": "IL",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.durbin.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Lindsey Graham",
     "state": "SC",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.lgraham.senate.gov/public"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mitch McConnell",
     "state": "KY",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.mcconnell.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jeff Merkley",
     "state": "OR",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.merkley.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Reed",
     "state": "RI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.reed.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "James Risch",
     "state": "ID",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.risch.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jeanne Shaheen",
     "state": "NH",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.shaheen.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mark Warner",
     "state": "VA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.warner.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Kirsten Gillibrand",
     "state": "NY",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.gillibrand.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Christopher Coons",
     "state": "DE",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.coons.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Robert Aderholt",
     "state": "AL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://aderholt.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tammy Baldwin",
     "state": "WI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.baldwin.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Michael Bennet",
     "state": "CO",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.bennet.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Gus Bilirakis",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bilirakis.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sanford Bishop",
     "state": "GA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bishop.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marsha Blackburn",
     "state": "TN",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.blackburn.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Richard Blumenthal",
     "state": "CT",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.blumenthal.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Boozman",
     "state": "AR",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.boozman.senate.gov/public"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Vern Buchanan",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://buchanan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ken Calvert",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://calvert.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Shelley Capito",
     "state": "WV",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.capito.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Andr\u00e9 Carson",
     "state": "IN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://carson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Carter",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://carter.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bill Cassidy",
     "state": "LA",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.cassidy.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Kathy Castor",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://castor.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Judy Chu",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://chu.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Yvette Clarke",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://clarke.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Emanuel Cleaver",
     "state": "MO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://cleaver.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James Clyburn",
     "state": "SC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://clyburn.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Steve Cohen",
     "state": "TN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://cohen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tom Cole",
     "state": "OK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://cole.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jim Costa",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://costa.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Joe Courtney",
     "state": "CT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://courtney.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Crapo",
     "state": "ID",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.crapo.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Eric Crawford",
     "state": "AR",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://crawford.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Henry Cuellar",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://cuellar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Danny Davis",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://davis.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Diana DeGette",
     "state": "CO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://degette.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rosa DeLauro",
     "state": "CT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://delauro.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Scott DesJarlais",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://desjarlais.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mario Diaz-Balart",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mariodiazbalart.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lloyd Doggett",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://doggett.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Charles Fleischmann",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fleischmann.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Virginia Foxx",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://foxx.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Garamendi",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://garamendi.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Paul Gosar",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gosar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Charles Grassley",
     "state": "IA",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.grassley.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Sam Graves",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://graves.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Al Green",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://algreen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "H. Griffith",
     "state": "VA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://morgangriffith.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brett Guthrie",
     "state": "KY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://guthrie.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andy Harris",
     "state": "MD",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://harris.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Martin Heinrich",
     "state": "NM",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.heinrich.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "James Himes",
     "state": "CT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://himes.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mazie Hirono",
     "state": "HI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.hirono.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Hoeven",
     "state": "ND",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.hoeven.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Steny Hoyer",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://hoyer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bill Huizenga",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://huizenga.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Henry Johnson",
     "state": "GA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://hankjohnson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ron Johnson",
     "state": "WI",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.ronjohnson.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jim Jordan",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://jordan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marcy Kaptur",
     "state": "OH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://kaptur.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "William Keating",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://keating.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Kelly",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://kelly.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James Lankford",
     "state": "OK",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.lankford.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Rick Larsen",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://larsen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Larson",
     "state": "CT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://larson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Latta",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://latta.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Lee",
     "state": "UT",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.lee.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Zoe Lofgren",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://lofgren.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Frank Lucas",
     "state": "OK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://lucas.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ben Luj\u00e1n",
     "state": "NM",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.lujan.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Stephen Lynch",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://lynch.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Edward Markey",
     "state": "MA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.markey.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Doris Matsui",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://matsui.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael McCaul",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mccaul.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tom McClintock",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mcclintock.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Betty McCollum",
     "state": "MN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mccollum.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James McGovern",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcgovern.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gregory Meeks",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://meeks.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gwen Moore",
     "state": "WI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gwenmoore.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jerry Moran",
     "state": "KS",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.moran.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Lisa Murkowski",
     "state": "AK",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.murkowski.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Christopher Murphy",
     "state": "CT",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.murphy.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Patty Murray",
     "state": "WA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.murray.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jerrold Nadler",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://nadler.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Richard Neal",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://neal.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eleanor Norton",
     "state": "DC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://norton.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Frank Pallone",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pallone.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rand Paul",
     "state": "KY",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.paul.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Nancy Pelosi",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pelosi.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gary Peters",
     "state": "MI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.peters.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Chellie Pingree",
     "state": "ME",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pingree.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Quigley",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://quigley.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Harold Rogers",
     "state": "KY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://halrogers.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Rogers",
     "state": "AL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mikerogers.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Steve Scalise",
     "state": "LA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://scalise.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Janice Schakowsky",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://schakowsky.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Adam Schiff",
     "state": "CA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.schiff.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Charles Schumer",
     "state": "NY",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.schumer.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "David Schweikert",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://schweikert.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Austin Scott",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://austinscott.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Scott",
     "state": "GA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://davidscott.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Scott",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bobbyscott.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tim Scott",
     "state": "SC",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.scott.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Terri Sewell",
     "state": "AL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sewell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brad Sherman",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sherman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Simpson",
     "state": "ID",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://simpson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Adam Smith",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://adamsmith.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Adrian Smith",
     "state": "NE",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://adriansmith.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Christopher Smith",
     "state": "NJ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://chrissmith.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Linda S\u00e1nchez",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://lindasanchez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bennie Thompson",
     "state": "MS",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://benniethompson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Thompson",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mikethompson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Glenn Thompson",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://thompson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Thune",
     "state": "SD",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.thune.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Paul Tonko",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://tonko.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Turner",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://turner.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Chris Van Hollen",
     "state": "MD",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.vanhollen.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Nydia Vel\u00e1zquez",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://velazquez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tim Walberg",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://walberg.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Debbie Wasserman Schultz",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://wassermanschultz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Maxine Waters",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://waters.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Daniel Webster",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://webster.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Peter Welch",
     "state": "VT",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.welch.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Joe Wilson",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://joewilson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Frederica Wilson",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://wilson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Wittman",
     "state": "VA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://wittman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Steve Womack",
     "state": "AR",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://womack.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ron Wyden",
     "state": "OR",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.wyden.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Todd Young",
     "state": "IN",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.young.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mark Amodei",
     "state": "NV",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://amodei.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Suzanne Bonamici",
     "state": "OR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bonamici.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Suzan DelBene",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://delbene.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Thomas Massie",
     "state": "KY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://massie.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brian Schatz",
     "state": "HI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.schatz.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Bill Foster",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://foster.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dina Titus",
     "state": "NV",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://titus.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tom Cotton",
     "state": "AR",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.cotton.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jared Huffman",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://huffman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ami Bera",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bera.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eric Swalwell",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://swalwell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Julia Brownley",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://juliabrownley.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Raul Ruiz",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ruiz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mark Takano",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://takano.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Juan Vargas",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://vargas.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Scott Peters",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://scottpeters.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lois Frankel",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://frankel.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tammy Duckworth",
     "state": "IL",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.duckworth.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Garland Barr",
     "state": "KY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://barr.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Elizabeth Warren",
     "state": "MA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.warren.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Angus King",
     "state": "ME",
     "party": "Independent",
     "chamber": "sen",
-    "website": "https://www.king.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Ann Wagner",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://wagner.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Steve Daines",
     "state": "MT",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.daines.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Richard Hudson",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hudson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kevin Cramer",
     "state": "ND",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.cramer.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Deb Fischer",
     "state": "NE",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.fischer.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Grace Meng",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://meng.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Hakeem Jeffries",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://jeffries.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Joyce Beatty",
     "state": "OH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://beatty.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Joyce",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://joyce.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Markwayne Mullin",
     "state": "OK",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.mullin.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Scott Perry",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://perry.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ted Cruz",
     "state": "TX",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.cruz.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Randy Weber",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://weber.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Joaquin Castro",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://castro.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Roger Williams",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://williams.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marc Veasey",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://veasey.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Timothy Kaine",
     "state": "VA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.kaine.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mark Pocan",
     "state": "WI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pocan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robin Kelly",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://robinkelly.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jason Smith",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://jasonsmith.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Cory Booker",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.booker.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Katherine Clark",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://katherineclark.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Donald Norcross",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://norcross.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Alma Adams",
     "state": "NC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://adams.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gary Palmer",
     "state": "AL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://palmer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "J. Hill",
     "state": "AR",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hill.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bruce Westerman",
     "state": "AR",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://westerman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ruben Gallego",
     "state": "AZ",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.gallego.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mark DeSaulnier",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://desaulnier.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pete Aguilar",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://aguilar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ted Lieu",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://lieu.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Norma Torres",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://torres.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Earl Carter",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://buddycarter.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Barry Loudermilk",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://loudermilk.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rick Allen",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://allen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Bost",
     "state": "IL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bost.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Seth Moulton",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://moulton.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Moolenaar",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://moolenaar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Debbie Dingell",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://debbiedingell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tom Emmer",
     "state": "MN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://emmer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Rouzer",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://rouzer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bonnie Watson Coleman",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://watsoncoleman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Elise Stefanik",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://stefanik.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brendan Boyle",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://boyle.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brian Babin",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://babin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Donald Beyer",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://beyer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Stacey Plaskett",
     "state": "VI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://plaskett.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dan Newhouse",
     "state": "WA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://newhouse.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Glenn Grothman",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://grothman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Aumua Amata Radewagen",
     "state": "AS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://radewagen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dan Sullivan",
     "state": "AK",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.sullivan.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Joni Ernst",
     "state": "IA",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.ernst.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Thom Tillis",
     "state": "NC",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.tillis.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Mike Rounds",
     "state": "SD",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.rounds.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Trent Kelly",
     "state": "MS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://trentkelly.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Darin LaHood",
     "state": "IL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://lahood.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Warren Davidson",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://davidson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James Comer",
     "state": "KY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://comer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dwight Evans",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://evans.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Kennedy",
     "state": "LA",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.kennedy.senate.gov/public"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Margaret Hassan",
     "state": "NH",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.hassan.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Catherine Cortez Masto",
     "state": "NV",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.cortezmasto.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Bradley Schneider",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://schneider.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andy Biggs",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://biggs.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ro Khanna",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://khanna.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jimmy Panetta",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://panetta.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Salud Carbajal",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://carbajal.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nanette Barrag\u00e1n",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://barragan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "J. Correa",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://correa.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lisa Blunt Rochester",
     "state": "DE",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.bluntrochester.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Neal Dunn",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://dunn.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Rutherford",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://rutherford.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Darren Soto",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://soto.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brian Mast",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mast.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Raja Krishnamoorthi",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://krishnamoorthi.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jim Banks",
     "state": "IN",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.banks.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Roger Marshall",
     "state": "KS",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.marshall.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Clay Higgins",
     "state": "LA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://clayhiggins.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Johnson",
     "state": "LA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mikejohnson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jamie Raskin",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://raskin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jack Bergman",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bergman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ted Budd",
     "state": "NC",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.budd.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Don Bacon",
     "state": "NE",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bacon.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Josh Gottheimer",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gottheimer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jacky Rosen",
     "state": "NV",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.rosen.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Adriano Espaillat",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://espaillat.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brian Fitzpatrick",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fitzpatrick.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lloyd Smucker",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://smucker.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Kustoff",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://kustoff.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Vicente Gonzalez",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gonzalez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jodey Arrington",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://arrington.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pramila Jayapal",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://jayapal.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ron Estes",
     "state": "KS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://estes.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ralph Norman",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://norman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jimmy Gomez",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gomez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Curtis",
     "state": "UT",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.curtis.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Tina Smith",
     "state": "MN",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.smith.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Cindy Hyde-Smith",
     "state": "MS",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.hydesmith.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Michael Cloud",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://cloud.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Troy Balderson",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://balderson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kevin Hern",
     "state": "OK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hern.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Joseph Morelle",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://morelle.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mary Scanlon",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://scanlon.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ed Case",
     "state": "HI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://case.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Steven Horsford",
     "state": "NV",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://horsford.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Greg Stanton",
     "state": "AZ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://stanton.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Josh Harder",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://harder.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Levin",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://levin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Joe Neguse",
     "state": "CO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://neguse.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jason Crow",
     "state": "CO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://crow.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jahana Hayes",
     "state": "CT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://hayes.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "W. Steube",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://steube.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lucy McBath",
     "state": "GA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcbath.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Russ Fulcher",
     "state": "ID",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fulcher.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jes\u00fas Garc\u00eda",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://chuygarcia.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sean Casten",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://casten.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lauren Underwood",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://underwood.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James Baird",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://baird.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sharice Davids",
     "state": "KS",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://davids.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lori Trahan",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://trahan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ayanna Pressley",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pressley.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Elissa Slotkin",
     "state": "MI",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.slotkin.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Haley Stevens",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://stevens.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rashida Tlaib",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://tlaib.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Angie Craig",
     "state": "MN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://craig.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ilhan Omar",
     "state": "MN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://omar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pete Stauber",
     "state": "MN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://stauber.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Guest",
     "state": "MS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://guest.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Chris Pappas",
     "state": "NH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pappas.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jefferson Van Drew",
     "state": "NJ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://vandrew.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andy Kim",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.kim.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Susie Lee",
     "state": "NV",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://susielee.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Alexandria Ocasio-Cortez",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ocasio-cortez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Madeleine Dean",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://dean.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Chrissy Houlahan",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://houlahan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Daniel Meuser",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://meuser.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Joyce",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://johnjoyce.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Guy Reschenthaler",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://reschenthaler.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "William Timmons",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://timmons.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dusty Johnson",
     "state": "SD",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://dustyjohnson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tim Burchett",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://burchett.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Rose",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://johnrose.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dan Crenshaw",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://crenshaw.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lance Gooden",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gooden.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lizzie Fletcher",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://fletcher.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Veronica Escobar",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://escobar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Chip Roy",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://roy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sylvia Garcia",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sylviagarcia.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ben Cline",
     "state": "VA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://cline.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kim Schrier",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://schrier.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Bryan Steil",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://steil.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Carol Miller",
     "state": "WV",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://miller.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rick Scott",
     "state": "FL",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.rickscott.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Joshua Hawley",
     "state": "MO",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.hawley.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jared Golden",
     "state": "ME",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://golden.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gregory Murphy",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://murphy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kweisi Mfume",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mfume.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Thomas Tiffany",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://tiffany.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mark Kelly",
     "state": "AZ",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.kelly.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Cynthia Lummis",
     "state": "WY",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.lummis.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Darrell Issa",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://issa.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pete Sessions",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://sessions.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Valadao",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://valadao.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tommy Tuberville",
     "state": "AL",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.tuberville.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Hickenlooper",
     "state": "CO",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.hickenlooper.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Bill Hagerty",
     "state": "TN",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.hagerty.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Barry Moore",
     "state": "AL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://barrymoore.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jay Obernolte",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://obernolte.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Young Kim",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://youngkim.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sara Jacobs",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sarajacobs.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lauren Boebert",
     "state": "CO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://boebert.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Katherine Cammack",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://cammack.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "C. Franklin",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://franklin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Byron Donalds",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://donalds.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Carlos Gimenez",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gimenez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Maria Salazar",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://salazar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nikema Williams",
     "state": "GA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://nikemawilliams.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andrew Clyde",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://clyde.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ashley Hinson",
     "state": "IA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hinson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mariannette Miller-Meeks",
     "state": "IA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://millermeeks.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Randy Feenstra",
     "state": "IA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://feenstra.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mary Miller",
     "state": "IL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://marymiller.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Frank Mrvan",
     "state": "IN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mrvan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Victoria Spartz",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://spartz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tracey Mann",
     "state": "KS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mann.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jake Auchincloss",
     "state": "MA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://auchincloss.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lisa McClain",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mcclain.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michelle Fischbach",
     "state": "MN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fischbach.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Deborah Ross",
     "state": "NC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ross.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Teresa Leger Fernandez",
     "state": "NM",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://fernandez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andrew Garbarino",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://garbarino.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nicole Malliotakis",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://malliotakis.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ritchie Torres",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ritchietorres.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Stephanie Bice",
     "state": "OK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bice.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Cliff Bentz",
     "state": "OR",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bentz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nancy Mace",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mace.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Diana Harshbarger",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://harshbarger.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Patrick Fallon",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fallon.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "August Pfluger",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://pfluger.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ronny Jackson",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://jackson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Troy Nehls",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://nehls.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ernest Gonzales",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gonzales.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Beth Van Duyne",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://vanduyne.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Blake Moore",
     "state": "UT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://blakemoore.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Clarence Owens",
     "state": "UT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://owens.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marilyn Strickland",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://strickland.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Scott Fitzgerald",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fitzgerald.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Alejandro Padilla",
     "state": "CA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.padilla.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jon Ossoff",
     "state": "GA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.ossoff.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Raphael Warnock",
     "state": "GA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.warnock.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Claudia Tenney",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://tenney.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Julia Letlow",
     "state": "LA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://letlow.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Troy Carter",
     "state": "LA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://troycarter.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Melanie Stansbury",
     "state": "NM",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://stansbury.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jake Ellzey",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://ellzey.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Shontel Brown",
     "state": "OH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://shontelbrown.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Carey",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://carey.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sheila Cherfilus-McCormick",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://cherfilus-mccormick.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Flood",
     "state": "NE",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://flood.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brad Finstad",
     "state": "MN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://finstad.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Patrick Ryan",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://patryan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rudy Yakym",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://yakym.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ryan Zinke",
     "state": "MT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://zinke.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Katie Britt",
     "state": "AL",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.britt.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Eric Schmitt",
     "state": "MO",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.schmitt.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "John Fetterman",
     "state": "PA",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.fetterman.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Dale Strong",
     "state": "AL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://strong.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eli Crane",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://crane.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Juan Ciscomani",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://ciscomani.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kevin Kiley",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://kiley.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kevin Mullin",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://kevinmullin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sydney Kamlager-Dove",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://kamlager-dove.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Garcia",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://robertgarcia.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brittany Pettersen",
     "state": "CO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pettersen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Aaron Bean",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bean.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Cory Mills",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mills.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Maxwell Frost",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://frost.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Anna Luna",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://luna.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Laurel Lee",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://laurellee.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jared Moskowitz",
     "state": "FL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://moskowitz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Rich McCormick",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mccormick.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Collins",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://collins.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James (Jim) Moylan",
     "state": "GU",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://moylan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jill Tokuda",
     "state": "HI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://tokuda.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Zachary (Zach) Nunn",
     "state": "IA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://nunn.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jonathan Jackson",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://jonathanjackson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Delia Ramirez",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ramirez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nicole (Nikki) Budzinski",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://budzinski.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eric Sorensen",
     "state": "IL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sorensen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Erin Houchin",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://houchin.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Morgan McGarvey",
     "state": "KY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcgarvey.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Glenn Ivey",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ivey.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Hillary Scholten",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://scholten.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John James",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://james.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Shri Thanedar",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://thanedar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mark Alford",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://alford.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eric Burlison",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://burlison.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Ezell",
     "state": "MS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://ezell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Donald Davis",
     "state": "NC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://dondavis.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Valerie Foushee",
     "state": "NC",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://foushee.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Charles (Chuck) Edwards",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://edwards.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Thomas Kean",
     "state": "NJ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://kean.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Menendez",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://menendez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gabriel (Gabe) Vasquez",
     "state": "NM",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://vasquez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nicolas LaLota",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://lalota.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dan Goldman",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://goldman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Lawler",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://lawler.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nicholas Langworthy",
     "state": "NY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://langworthy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Greg Landsman",
     "state": "OH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://landsman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Max Miller",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://maxmiller.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Emilia Sykes",
     "state": "OH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://sykes.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Josh Brecheen",
     "state": "OK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://brecheen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Valerie Hoyle",
     "state": "OR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://hoyle.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andrea Salinas",
     "state": "OR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://salinas.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Summer Lee",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://summerlee.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Chris Deluzio",
     "state": "PA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://deluzio.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Seth Magaziner",
     "state": "RI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://magaziner.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Russell Fry",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fry.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Andrew Ogles",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://ogles.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nathaniel Moran",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://moran.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Keith Self",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://keithself.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Morgan Luttrell",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://luttrell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "M\u00f3nica De La Cruz",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://delacruz.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jasmine Crockett",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://crockett.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gregorio Casar",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://casar.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Wesley Hunt",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hunt.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jennifer Kiggans",
     "state": "VA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://kiggans.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Becca Balint",
     "state": "VT",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://balint.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marie Gluesenkamp Perez",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gluesenkampperez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Derrick Van Orden",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://vanorden.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Harriet Hageman",
     "state": "WY",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hageman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pete Ricketts",
     "state": "NE",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.ricketts.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jennifer McClellan",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcclellan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gabe Amo",
     "state": "RI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://amo.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Celeste Maloy",
     "state": "UT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://maloy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Thomas Suozzi",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://suozzi.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Timothy Kennedy",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://kennedy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Vince Fong",
     "state": "CA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fong.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Rulli",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://rulli.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "LaMonica McIver",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mciver.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tony Wied",
     "state": "WI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://wied.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Cleo Fields",
     "state": "LA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://fields.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Marlin Stutzman",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://stutzman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gilbert Cisneros",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://cisneros.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Angela Alsobrooks",
     "state": "MD",
     "party": "Democrat",
     "chamber": "sen",
-    "website": "https://www.alsobrooks.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Tim Sheehy",
     "state": "MT",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.sheehy.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Bernie Moreno",
     "state": "OH",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.moreno.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Dave McCormick",
     "state": "PA",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.mccormick.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Nicholas Begich",
     "state": "AK",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://begich.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Shomari Figures",
     "state": "AL",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://figures.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Yassamin Ansari",
     "state": "AZ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://ansari.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Abraham Hamadeh",
     "state": "AZ",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hamadeh.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Lateefah Simon",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://simon.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Adam Gray",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gray.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sam Liccardo",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://liccardo.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "George Whitesides",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://whitesides.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Luz Rivas",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://rivas.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Laura Friedman",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://friedman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Derek Tran",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://tran.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Dave Min",
     "state": "CA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://min.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jeff Hurd",
     "state": "CO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://hurd.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jeff Crank",
     "state": "CO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://crank.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Gabe Evans",
     "state": "CO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gabeevans.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sarah McBride",
     "state": "DE",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcbride.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Haridopolos",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://haridopolos.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brian Jack",
     "state": "GA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://jack.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jefferson Shreve",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://shreve.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mark Messmer",
     "state": "IN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://messmer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Derek Schmidt",
     "state": "KS",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://schmidt.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Johnny Olszewski",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://olszewski.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sarah Elfreth",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://elfreth.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "April McClain Delaney",
     "state": "MD",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcclaindelaney.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tom Barrett",
     "state": "MI",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://barrett.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kristen McDonald Rivet",
     "state": "MI",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mcdonaldrivet.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kelly Morrison",
     "state": "MN",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://morrison.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Wesley Bell",
     "state": "MO",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Onder",
     "state": "MO",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://onder.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Kimberlyn King-Hinds",
     "state": "MP",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://king-hinds.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Troy Downing",
     "state": "MT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://downing.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Addison McDowell",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mcdowell.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mark Harris",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://markharris.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pat Harrigan",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://harrigan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brad Knott",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://knott.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Tim Moore",
     "state": "NC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://timmoore.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Julie Fedorchak",
     "state": "ND",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fedorchak.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Maggie Goodlander",
     "state": "NH",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://goodlander.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Herbert Conaway",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://conaway.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Nellie Pou",
     "state": "NJ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://pou.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Laura Gillen",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://gillen.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "George Latimer",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://latimer.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Josh Riley",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://riley.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John Mannion",
     "state": "NY",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://mannion.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "David Taylor",
     "state": "OH",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://taylor.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Maxine Dexter",
     "state": "OR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://dexter.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Janelle Bynum",
     "state": "OR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://bynum.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Ryan Mackenzie",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mackenzie.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Robert Bresnahan",
     "state": "PA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://bresnahan.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Pablo Jos\u00e9 Hern\u00e1ndez Rivera",
     "state": "PR",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://hernandez.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Sheri Biggs",
     "state": "SC",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://sheribiggs.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Craig Goldman",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://craiggoldman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Brandon Gill",
     "state": "TX",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://gill.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Julie Johnson",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://juliejohnson.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Mike Kennedy",
     "state": "UT",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mikekennedy.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "John McGuire",
     "state": "VA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://mcguire.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Eugene Vindman",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://vindman.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Suhas Subramanyam",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://subramanyam.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Michael Baumgartner",
     "state": "WA",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://baumgartner.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Emily Randall",
     "state": "WA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://randall.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Riley Moore",
     "state": "WV",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://rileymoore.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Jim Justice",
     "state": "WV",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.justice.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jon Husted",
     "state": "OH",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.husted.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Ashley Moody",
     "state": "FL",
     "party": "Republican",
     "chamber": "sen",
-    "website": "https://www.moody.senate.gov"
+    "phones": [
+      "(202) 224-3121"
+    ]
   },
   {
     "name": "Jimmy Patronis",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://patronis.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Randall Fine",
     "state": "FL",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://fine.house.gov"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "James Walkinshaw",
     "state": "VA",
     "party": "Democrat",
     "chamber": "rep",
-    "website": null
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Adelita Grijalva",
     "state": "AZ",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://grijalva.house.gov/"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Matt Van Epps",
     "state": "TN",
     "party": "Republican",
     "chamber": "rep",
-    "website": "https://vanepps.house.gov/"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   },
   {
     "name": "Christian Menefee",
     "state": "TX",
     "party": "Democrat",
     "chamber": "rep",
-    "website": "https://menefee.house.gov/"
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
+    ]
   }
 ]
