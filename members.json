@@ -1745,15 +1745,6 @@
     ]
   },
   {
-    "name": "Markwayne Mullin",
-    "state": "OK",
-    "party": "Republican",
-    "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
-  },
-  {
     "name": "Scott Perry",
     "state": "PA",
     "party": "Republican",
@@ -5715,6 +5706,15 @@
       "(202) 225-7000",
       "(202) 225 7000",
       "(202) 225-7000"
+    ]
+  },
+  {
+    "name": "Alan Armstrong",
+    "state": "OK",
+    "party": "Republican",
+    "chamber": "sen",
+    "phones": [
+      "(202) 224-3121"
     ]
   }
 ]
