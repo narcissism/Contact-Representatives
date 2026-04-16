@@ -3779,17 +3779,6 @@
     ]
   },
   {
-    "name": "Ernest Gonzales",
-    "state": "TX",
-    "party": "Republican",
-    "chamber": "rep",
-    "phones": [
-      "(202) 225-7000",
-      "(202) 225 7000",
-      "(202) 225-7000"
-    ]
-  },
-  {
     "name": "Beth Van Duyne",
     "state": "TX",
     "party": "Republican",
@@ -5704,6 +5693,17 @@
     "chamber": "sen",
     "phones": [
       "(202) 224-3121"
+    ]
+  },
+  {
+    "name": "Clay Fuller",
+    "state": "GA",
+    "party": "Republican",
+    "chamber": "rep",
+    "phones": [
+      "(202) 225-7000",
+      "(202) 225 7000",
+      "(202) 225-7000"
     ]
   }
 ]
