@@ -1124,17 +1124,6 @@
     ]
   },
   {
-    "name": "David Scott",
-    "state": "GA",
-    "party": "Democrat",
-    "chamber": "rep",
-    "phones": [
-      "(202) 225-7000",
-      "(202) 225 7000",
-      "(202) 225-7000"
-    ]
-  },
-  {
     "name": "Robert Scott",
     "state": "VA",
     "party": "Democrat",
@@ -3930,17 +3919,6 @@
     "name": "Mike Carey",
     "state": "OH",
     "party": "Republican",
-    "chamber": "rep",
-    "phones": [
-      "(202) 225-7000",
-      "(202) 225 7000",
-      "(202) 225-7000"
-    ]
-  },
-  {
-    "name": "Sheila Cherfilus-McCormick",
-    "state": "FL",
-    "party": "Democrat",
     "chamber": "rep",
     "phones": [
       "(202) 225-7000",
