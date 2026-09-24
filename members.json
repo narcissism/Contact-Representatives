@@ -4,153 +4,119 @@
     "state": "WA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Amy Klobuchar",
     "state": "MN",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Bernard Sanders",
     "state": "VT",
     "party": "Independent",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Sheldon Whitehouse",
     "state": "RI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Barrasso",
     "state": "WY",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Roger Wicker",
     "state": "MS",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Susan Collins",
     "state": "ME",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Cornyn",
     "state": "TX",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Richard Durbin",
     "state": "IL",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mitch McConnell",
     "state": "KY",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jeff Merkley",
     "state": "OR",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Reed",
     "state": "RI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "James Risch",
     "state": "ID",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jeanne Shaheen",
     "state": "NH",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mark Warner",
     "state": "VA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Kirsten Gillibrand",
     "state": "NY",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Christopher Coons",
     "state": "DE",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Robert Aderholt",
@@ -168,18 +134,14 @@
     "state": "WI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Michael Bennet",
     "state": "CO",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Gus Bilirakis",
@@ -208,27 +170,21 @@
     "state": "TN",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Richard Blumenthal",
     "state": "CT",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Boozman",
     "state": "AR",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Vern Buchanan",
@@ -257,9 +213,7 @@
     "state": "WV",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Andr\u00e9 Carson",
@@ -288,9 +242,7 @@
     "state": "LA",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Kathy Castor",
@@ -396,9 +348,7 @@
     "state": "ID",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Eric Crawford",
@@ -537,9 +487,7 @@
     "state": "IA",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Sam Graves",
@@ -601,9 +549,7 @@
     "state": "NM",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "James Himes",
@@ -621,18 +567,14 @@
     "state": "HI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Hoeven",
     "state": "ND",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Steny Hoyer",
@@ -672,9 +614,7 @@
     "state": "WI",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jim Jordan",
@@ -725,9 +665,7 @@
     "state": "OK",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Rick Larsen",
@@ -767,9 +705,7 @@
     "state": "UT",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Zoe Lofgren",
@@ -798,9 +734,7 @@
     "state": "NM",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Stephen Lynch",
@@ -818,9 +752,7 @@
     "state": "MA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Doris Matsui",
@@ -904,36 +836,28 @@
     "state": "KS",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Lisa Murkowski",
     "state": "AK",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Christopher Murphy",
     "state": "CT",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Patty Murray",
     "state": "WA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jerrold Nadler",
@@ -984,9 +908,7 @@
     "state": "KY",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Nancy Pelosi",
@@ -1004,9 +926,7 @@
     "state": "MI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Chellie Pingree",
@@ -1079,18 +999,14 @@
     "state": "CA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Charles Schumer",
     "state": "NY",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "David Schweikert",
@@ -1130,9 +1046,7 @@
     "state": "SC",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Terri Sewell",
@@ -1249,9 +1163,7 @@
     "state": "SD",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Paul Tonko",
@@ -1280,9 +1192,7 @@
     "state": "MD",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Nydia Vel\u00e1zquez",
@@ -1344,9 +1254,7 @@
     "state": "VT",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Joe Wilson",
@@ -1397,18 +1305,14 @@
     "state": "OR",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Todd Young",
     "state": "IN",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mark Amodei",
@@ -1459,9 +1363,7 @@
     "state": "HI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Bill Foster",
@@ -1490,9 +1392,7 @@
     "state": "AR",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jared Huffman",
@@ -1587,9 +1487,7 @@
     "state": "IL",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Garland Barr",
@@ -1607,18 +1505,14 @@
     "state": "MA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Angus King",
     "state": "ME",
     "party": "Independent",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Ann Wagner",
@@ -1636,9 +1530,7 @@
     "state": "MT",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Richard Hudson",
@@ -1656,18 +1548,14 @@
     "state": "ND",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Deb Fischer",
     "state": "NE",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Grace Meng",
@@ -1729,9 +1617,7 @@
     "state": "TX",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Randy Weber",
@@ -1782,9 +1668,7 @@
     "state": "VA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mark Pocan",
@@ -1824,9 +1708,7 @@
     "state": "NJ",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Katherine Clark",
@@ -1899,9 +1781,7 @@
     "state": "AZ",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mark DeSaulnier",
@@ -2150,36 +2030,28 @@
     "state": "AK",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Joni Ernst",
     "state": "IA",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Thom Tillis",
     "state": "NC",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Mike Rounds",
     "state": "SD",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Trent Kelly",
@@ -2241,27 +2113,21 @@
     "state": "LA",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Margaret Hassan",
     "state": "NH",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Catherine Cortez Masto",
     "state": "NV",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Bradley Schneider",
@@ -2345,9 +2211,7 @@
     "state": "DE",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Neal Dunn",
@@ -2409,18 +2273,14 @@
     "state": "IN",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Roger Marshall",
     "state": "KS",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Clay Higgins",
@@ -2471,9 +2331,7 @@
     "state": "NC",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Don Bacon",
@@ -2502,9 +2360,7 @@
     "state": "NV",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Adriano Espaillat",
@@ -2621,27 +2477,21 @@
     "state": "UT",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Tina Smith",
     "state": "MN",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Cindy Hyde-Smith",
     "state": "MS",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Michael Cloud",
@@ -2901,9 +2751,7 @@
     "state": "MI",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Haley Stevens",
@@ -2998,9 +2846,7 @@
     "state": "NJ",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Susie Lee",
@@ -3238,18 +3084,14 @@
     "state": "FL",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Joshua Hawley",
     "state": "MO",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jared Golden",
@@ -3300,18 +3142,14 @@
     "state": "AZ",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Cynthia Lummis",
     "state": "WY",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Darrell Issa",
@@ -3351,27 +3189,21 @@
     "state": "AL",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Hickenlooper",
     "state": "CO",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Bill Hagerty",
     "state": "TN",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Barry Moore",
@@ -3818,27 +3650,21 @@
     "state": "CA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jon Ossoff",
     "state": "GA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Raphael Warnock",
     "state": "GA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Claudia Tenney",
@@ -3977,27 +3803,21 @@
     "state": "AL",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Eric Schmitt",
     "state": "MO",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "John Fetterman",
     "state": "PA",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Dale Strong",
@@ -4719,9 +4539,7 @@
     "state": "NE",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jennifer McClellan",
@@ -4860,36 +4678,28 @@
     "state": "MD",
     "party": "Democrat",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Tim Sheehy",
     "state": "MT",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Bernie Moreno",
     "state": "OH",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Dave McCormick",
     "state": "PA",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Nicholas Begich",
@@ -5567,27 +5377,21 @@
     "state": "WV",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jon Husted",
     "state": "OH",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Ashley Moody",
     "state": "FL",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Jimmy Patronis",
@@ -5660,9 +5464,7 @@
     "state": "OK",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Clay Fuller",
@@ -5702,9 +5504,7 @@
     "state": "SC",
     "party": "Republican",
     "chamber": "sen",
-    "phones": [
-      "(202) 224-3121"
-    ]
+    "phones": []
   },
   {
     "name": "Everton Blair",
